@@ -6,7 +6,7 @@
 
 ## Description
 
-This tool leverages the research linked below to understand the contents of TCC.db. Uses "Full Disk Access" permissions to read contents of TCC.db and display in human-readable format. Can output as a pseudo table viewable in the terminal or as a text table which is viewed best in a text editor. 
+This tool leverages the research linked below to understand the contents of TCC.db. Uses "Full Disk Access" permissions to read the contents of TCC.db and display it in human-readable format. Can output as a pseudo table viewable in the terminal or as a text table which is viewed best in a text editor. 
 
 ## Usage
 - Dump global TCC.db as a pseudo table
