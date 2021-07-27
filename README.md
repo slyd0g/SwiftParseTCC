@@ -1,8 +1,8 @@
 # SwiftParseTCC
 
-![Help](https://raw.githubusercontent.com/slyd0g/SwiftParseTCC/master/example.png)
+![Help](https://raw.githubusercontent.com/slyd0g/SwiftParseTCC/main/example.png)
 
-![Output](https://raw.githubusercontent.com/slyd0g/SwiftParseTCC/master/example2.png)
+![Output](https://raw.githubusercontent.com/slyd0g/SwiftParseTCC/main/example2.png)
 
 ## Description
 
