@@ -12,7 +12,7 @@ This tool leverages the research linked below to understand the contents of TCC.
 - Dump global TCC.db as a pseudo table
     - ```./SwiftParseTCC -p "/Library/Application Support/com.apple.TCC/TCC.db"```
 - Dump user TCC.db as a text table (best viewed in a text editor)
-    - ```./SwiftParseTCC -path "/Library/Application Support/com.apple.TCC/TCC.db" -table```
+    - ```./SwiftParseTCC -path "~/Library/Application Support/com.apple.TCC/TCC.db" -table```
 
 ## Note
 The base64 encoded blobs are binary blobs that describe the code signing requirement. This is used to prevent spoofing/impersonation if another program uses the same bundle identifier. They can be decoded using the ```csreq``` binary as follows:
